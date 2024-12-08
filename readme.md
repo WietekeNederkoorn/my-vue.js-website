@@ -1,5 +1,5 @@
 # My Vue.js website
-In preperation for starting to become a software developer I started to learn how to build a website with Vue.js
+In preperation for starting to become a software developer, I started to learn how to build a website with Vue.js
 
 A few things I learned:
 1. Using HTML to build a website
